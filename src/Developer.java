@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Developer {
+public class Developer {
+
+    public void coding(){
+
+    }
 }
